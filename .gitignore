@@ -1,9 +1,8 @@
-
+/.env
 /env
 /learn_drf/learn_drf/__pycache__/
 /learn_drf/my_app/__pycache__/
 /learn_drf/my_app/migrations/__pycache__/
 /db.sqlite3
 /new_env
-# /my_app/.env
-
+/my_app/.env
