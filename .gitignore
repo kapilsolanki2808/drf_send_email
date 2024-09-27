@@ -5,4 +5,4 @@
 /learn_drf/my_app/migrations/__pycache__/
 /db.sqlite3
 /new_env
-/my_app/.env
+# /learn_drf/.env
